@@ -1,0 +1,18 @@
+{
+  "name": "seo-meta-helper",
+  "version": "1.0.1",
+  "description": "Simple node.js app for quick result of SEO meta tags (Meta title, Meta description, Open Graph data, Twitter cards).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cheerio": "^1.0.0-rc.2",
+    "inquirer": "^6.2.2",
+    "request": "^2.88.0"
+  }
+}
