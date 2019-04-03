@@ -25,7 +25,7 @@ const metaHelper = require('seo-meta-helper')
 ```
 Now call "***node meta-helper.js***" in root of your terminal and see results:
 
-![Seo meta helper screenshot](./public/img/seo-meta-helper.jpg?raw=true "Seo meta helper screenshot")
+![Seo meta helper screenshot](https://raw.githubusercontent.com/radekk111/seo-meta-helper/master/public/img/seo-meta-helper.png "Seo meta helper screenshot")
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
