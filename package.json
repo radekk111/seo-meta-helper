@@ -1,6 +1,6 @@
 {
   "name": "seo-meta-helper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple node.js app for quick result of SEO meta tags (Meta title, Meta description, Open Graph data, Twitter cards).",
   "main": "index.js",
   "scripts": {

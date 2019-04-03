@@ -1,12 +1,12 @@
 # SEO meta helper
 
-Simple node.js app for quick result of SEO meta tags on any website:
+Simple node.js app for quick result of SEO meta tags of any website:
 - Meta title
 - Meta description
 - Open Graph data
 - Twitter cards
 
-App will scrape whole html code and get meta tags from all links (anchors) in selected code.
+App will scrape whole html code and will get meta tags of all links (anchors) in selected code.
 
 ## Installation
 
@@ -23,7 +23,11 @@ Require installed package into file:
 ```javscript
 const metaHelper = require('seo-meta-helper')
 ```
-Now call "***node meta-helper.js***" in root of your terminal and see results:
+Now call command
+```bash
+node meta-helper.js
+```
+in root of your project, type url and see results:
 
 ![Seo meta helper screenshot](https://raw.githubusercontent.com/radekk111/seo-meta-helper/master/public/img/seo-meta-helper.png "Seo meta helper screenshot")
 
